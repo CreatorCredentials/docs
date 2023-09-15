@@ -1,5 +1,9 @@
 # Introduction
 
+## Overview
+
+<figure><img src=".gitbook/assets/Trustchain-Creator-Credentials-Overview.png" alt=""><figcaption></figcaption></figure>
+
 ## Project Summary
 
 CreatorCredentials.cc will develop a user-centric digital identity management framework specifically designed for the cultural and creative communities. This includes a software application that can be used by media organisations, membership organisations or other trust services to issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
@@ -9,10 +13,6 @@ The app will be based on new and upcoming ISO and W3C standards for decentralise
 The app will be developed as an open-sourced, dockerized service that can be installed on premise by media organisations. It will facilitate the onboarding process, mutual authentication, and verification of credential issuers and creators. The app will support the creation and issuance of a variety of credential types and subjects, tailored to the specific needs of the various media sectors.
 
 CreatorCredentials.cc aims to establish a new role for public entities and organisations in digital media publishing. By extending the state-of-the-art in digital identities to the cultural and creative communities and solving existing real-world problems, the project aims to provide new and highly innovative software solutions for credential issuers and future trust services.
-
-## Overview
-
-<figure><img src=".gitbook/assets/Trustchain-Creator-Credentials-Overview.png" alt=""><figcaption></figcaption></figure>
 
 ## Contact information
 
