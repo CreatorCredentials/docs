@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Introduction to CreatorCredentials](README.md)
+* [Introduction](README.md)
