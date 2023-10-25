@@ -2,6 +2,12 @@
 
 ## Project Summary
 
+<div align="left">
+
+<figure><picture><source srcset=".gitbook/assets/CC logo-text-white.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/CC logo-text.png" alt="" width="188"></picture><figcaption></figcaption></figure>
+
+</div>
+
 CreatorCredentials.cc will develop a user-centric digital identity management framework specifically designed for the cultural and creative communities. This includes a software application that can be used by media organisations, membership organisations or other trust services to issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
 
 <figure><img src=".gitbook/assets/Trustchain-Creator-Credentials-Overview.png" alt=""><figcaption><p>Overview</p></figcaption></figure>
