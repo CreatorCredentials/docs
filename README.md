@@ -26,7 +26,7 @@ Feel free to have a look at the visual interface of the Creator Credentials app:
 Creator Credentials app
 {% endembed %}
 
-be aware that the application is not yet fully functional, but you can click through the application and get a better idea what you can do either as a creator or as a trust service (credentials issuer).&#x20;
+Be aware that the application is not yet fully functional, but you can click through the application and get a better idea what you can do either as a creator or as a trust service (credentials issuer).&#x20;
 
 ## Contact information
 
