@@ -18,6 +18,16 @@ The app will be developed as an open-sourced, dockerized service that can be ins
 
 Creator Credentials aims to establish a new role for public entities and organisations in digital media publishing. By extending the state-of-the-art in digital identities to the cultural and creative communities and solving existing real-world problems, the project aims to provide new and highly innovative software solutions for credential issuers and future trust services.
 
+## Visual interface
+
+Feel free to have a look at the visual interface of the Creator Credentials app:&#x20;
+
+{% embed url="https://www.creatorcredentials.dev/welcome" %}
+Creator Credentials app
+{% endembed %}
+
+be aware that the application is not yet fully functional, but you can click through the application and get a better idea what you can do either as a creator or as a trust service (credentials issuer).&#x20;
+
 ## Contact information
 
 If you have any questions, please fee free to reach out:
