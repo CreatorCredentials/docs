@@ -8,7 +8,7 @@
 
 </div>
 
-Creator Credentials will develop a user-centric digital identity management framework specifically designed for the cultural and creative communities. This includes a software application that can be used by media organisations, membership organisations or other trust services to issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
+Creator Credentials will develop a user-centric digital identity management framework specifically designed for the cultural and creative communities. This includes a software application that can be used by media organisations, membership organisations or other trust services to manage and issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
 
 <figure><img src=".gitbook/assets/Trustchain-Creator-Credentials-Overview-New.png" alt=""><figcaption></figcaption></figure>
 
