@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction to Creator Credentials](README.md)
+* [Issuers, Holders, and Verifiers](issuers-holders-and-verifiers.md)
 * [User application](user-application.md)
-* [Contact](contact.md)
+* [Credits and Contact](credits-and-contact.md)
