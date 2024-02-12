@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/VC-Triangle-clear.png" alt="" width="510"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/VC-Triangle-clear.png" alt="" width="510"><figcaption></figcaption></figure>
 
 </div>
 
