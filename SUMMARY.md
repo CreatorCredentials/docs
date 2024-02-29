@@ -2,7 +2,7 @@
 
 * [The Project](README.md)
 * [Creator Credentials](creator-credentials/README.md)
-  * [Essential features](creator-credentials/essential-features.md)
+  * [Essential features and benefits](creator-credentials/essential-features-and-benefits.md)
   * [Publicly accessible VCs](creator-credentials/publicly-accessible-vcs.md)
   * [Issuers, Holders, and Verifiers](creator-credentials/issuers-holders-and-verifiers.md)
   * [Use cases for creator credentials in the media sectors](creator-credentials/use-cases-for-creator-credentials-in-the-media-sectors.md)
