@@ -8,3 +8,4 @@
   * [Use cases for creator credentials in the media sectors](about-creator-credentials/use-cases-for-creator-credentials-in-the-media-sectors.md)
 * [The Application](the-application.md)
 * [Credits and Contact](credits-and-contact.md)
+* [Terms of Service for Creators](terms-of-service-for-creators.md)
