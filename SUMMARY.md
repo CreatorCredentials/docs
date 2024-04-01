@@ -9,3 +9,4 @@
 * [The Application](the-application.md)
 * [Credits and Contact](credits-and-contact.md)
 * [Terms of Service for Creators](terms-of-service-for-creators.md)
+* [Terms of Service for Issuers](terms-of-service-for-issuers.md)
