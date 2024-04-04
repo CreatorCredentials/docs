@@ -71,9 +71,9 @@
 
 Liccium B.V. will use user data and content only as necessary to provide the CC Services. Liccium B.V. may share user data and content with third-party service providers as necessary to provide the CC Services, such as hosting and storage providers. Any third-party service providers will be required to protect user data and content in accordance with this policy. &#x20;
 
-You have the right to access, correct, and delete your personal data at any time, unless Liccium B.V. has right to store such data for Evidence Purposes. You can contact us here \[E-Mail]&#x20;
+You have the right to access, correct, and delete your personal data at any time, unless Liccium B.V. has right to store such data for Evidence Purposes. You can contact us via info at liccium.com. &#x20;
 
-Please see our Data Protection Policy in detail here. \[LINK]&#x20;
+Please see our Data Protection Policy in detail here. [https://liccium.com/privacy-policy/](https://liccium.com/privacy-policy/)&#x20;
 
 ### 12. Jurisdiction and Venue &#x20;
 
