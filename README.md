@@ -1,4 +1,4 @@
-# The Project
+# Creator Credentials Project
 
 <div align="left">
 
@@ -8,7 +8,7 @@
 
 ## Motivation
 
-Creator Credentials will introduce decentralised digital identities to the cultural and creative industries. Why? Because we see many use cases for VCs and DIDs in the media industries that can help to significantly enhance the trustworthiness of online media environments.
+Creator Credentials introduces decentralised digital identities to the cultural and creative industries. Why? Because we see many use cases for VCs and DIDs in the media industries that can help to significantly enhance the trustworthiness of online media environments.
 
 The abundance and widespread dissemination of media content online poses significant challenges for users in terms of analysing and verifying the data integrity, authenticity, claims and attribution to the content. This lack of transparency creates an environment that fosters the spread of fake news and disinformation campaigns.&#x20;
 
@@ -16,7 +16,7 @@ Proper attribution, using tools and services based on the concept of self-sovere
 
 ## Project Goals
 
-The Creator Credentials project will develop a user-centric digital identity management framework that is specifically designed to serve the unique needs of the cultural and creative industries.&#x20;
+The Creator Credentials project is developing a user-centric digital identity management framework that is specifically designed to serve the unique needs of the cultural and creative industries.&#x20;
 
 This includes a software application that can be used by media organisations, membership organisations or other trust services to manage and issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
 
