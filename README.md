@@ -1,4 +1,18 @@
-# Creator Credentials
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# About Creator Credentials
 
 <div align="left"><figure><picture><source srcset=".gitbook/assets/CC logo-text-white.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/CC logo-text.png" alt="" width="188"></picture><figcaption></figcaption></figure></div>
 
@@ -18,5 +32,7 @@ The core components include:
 * **A wallet for creators and rightsholders:** The application provides a secure and decentralised wallet that allows creators and rightsholders to store, manage, and share their Verifiable Credentials. This ensures that their credentials are easily accessible and verifiable by third parties, such as media platforms, publishers, and audiences, reinforcing trust and accountability in digital publishing.
 
 **Creator Credentials aims to establish a new role for public entities and organisations in digital media publishing.** By integrating digital identity solutions with existing media infrastructures, the project enables public institutions, professional associations, and cultural organisations to serve as trust anchors in the verification of creator credentials and content authenticity. This shift introduces a new paradigm for trust and accountability, ensuring that digital publishing ecosystems are transparent, verifiable, and resistant to manipulation.
+
+## Overview
 
 <div data-full-width="true"><figure><img src=".gitbook/assets/Creator-Credentials-Overview.png" alt=""><figcaption><p>Creator Credentials – Overview</p></figcaption></figure></div>

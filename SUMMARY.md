@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Creator Credentials](README.md)
+* [About Creator Credentials](README.md)
 * [Key features and benefits](introduction/key-features-and-benefits.md)
 * [Publicly accessible VCs](introduction/publicly-accessible-vcs.md)
 * [Issuers, Holders, and Verifiers](introduction/issuers-holders-and-verifiers.md)
