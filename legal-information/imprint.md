@@ -1,4 +1,6 @@
 ---
+noIndex: true
+noRobotsIndex: true
 layout:
   title:
     visible: true
