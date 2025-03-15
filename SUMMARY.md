@@ -7,7 +7,7 @@
 * [Publicly accessible VCs](introduction/publicly-accessible-vcs.md)
 * [Issuers, Holders, and Verifiers](introduction/issuers-holders-and-verifiers.md)
 * [Use cases in digital media](introduction/use-cases-in-digital-media.md)
-* [How Creator Credentials Differ from ISNI and ORCID](introduction/how-creator-credentials-differ-from-isni-and-orcid.md)
+* [How Creator Credentials differ from ISNI and ORCID](introduction/how-creator-credentials-differ-from-isni-and-orcid.md)
 
 ## The Application
 
