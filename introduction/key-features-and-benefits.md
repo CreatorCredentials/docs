@@ -1,6 +1,22 @@
-# Essential features and benefits
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-VCs offer a multitude of essential features and benefits that not only enhance security but also facilitate seamless interoperability across various systems and applications. Let's delve into the key attributes that make Verified Credentials a game-changer for digital authentication:
+# Key features and benefits
+
+Verifiable Credentials (VCs) introduce a fundamentally new approach to digital authentication, ensuring security, interoperability, and trust in online environments. Creator Credentials extend these principles to the cultural and creative industries, enabling creators and rightsholders to maintain full control over their digital identities and claims.
+
+Here are the essential attributes that make Creator Credentials a game-changer for attribution, rights management, and digital authenticity:
 
 1. Creator Credentials are **self-sovereign**, which means that creators and rightsholders have primary ownership and control over their credentials. They can choose where to host, when to use, and how to share them, including controlling access levels and revoking access if needed.
 2. Creator Credentials are **portable**, which means that once issued the holder can transfer credentials between different systems and platforms without loss of information or functionality. They can also be used with various applications or services as required.

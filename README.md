@@ -1,29 +1,22 @@
-# Creator Credentials Project
+# Creator Credentials
 
-<div align="left">
-
-<figure><picture><source srcset=".gitbook/assets/CC logo-text-white.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/CC logo-text.png" alt="" width="188"></picture><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><picture><source srcset=".gitbook/assets/CC logo-text-white.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/CC logo-text.png" alt="" width="188"></picture><figcaption></figcaption></figure></div>
 
 ## Motivation
 
-Creator Credentials introduces decentralised digital identities to the cultural and creative industries. Why? Because we see many use cases for VCs and DIDs in the media industries that can help to significantly enhance the trustworthiness of online media environments.
+The Creator Credentials project introduces decentralised **digital identities to the cultural and creative industries**, addressing a critical need for verifiable authenticity in digital media. The widespread availability and rapid dissemination of digital content present significant challenges for users attempting to verify the integrity, authenticity, and ownership of media assets. The lack of standardised attribution mechanisms contributes to the unchecked spread of misinformation, unauthorised use of copyrighted works, and the erosion of trust in online media.
 
-The abundance and widespread dissemination of media content online poses significant challenges for users in terms of analysing and verifying the data integrity, authenticity, claims and attribution to the content. This lack of transparency creates an environment that fosters the spread of fake news and disinformation campaigns.&#x20;
+While **Self-Sovereign Identity (SSI)** frameworks offer potential solutions for improving content attribution and rights management, these technologies have historically remained **inaccessible to creative communities**. Existing SSI tools are complex, require technical expertise, and impose high barriers to adoption. As a result, media organizations, creators, and rightsholders have lacked practical, easy-to-use solutions for securing their digital identities and ensuring **accountability** in an increasingly AI-driven landscape.
 
-Proper attribution, using tools and services based on the concept of self-sovereign identity (SSI), can potentially improve the situation. However, the concepts of SSI are mostly unknown to the creative communities. SSI tools and protocols are not easy to use, and the barriers of entry are simply too high to get the media sector interested and involved.
+## **Project Goals**
 
-## Project Goals
+**Creator Credentials** has developed a **user-centric digital identity framework** tailored to the needs of creators, media professionals, and cultural institutions. The project simplifies the issuance and verification of **Verifiable Credentials (VCs)** and **Decentralized Identifiers (DIDs)**, ensuring that digital media attribution is both cryptographically secure and publicly accountable.
 
-The Creator Credentials project is developing a user-centric digital identity management framework that is specifically designed to serve the unique needs of the cultural and creative industries.&#x20;
+The core components include:
 
-This includes a software application that can be used by media organisations, membership organisations or other trust services to manage and issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
+* **A credential issuance platform:** A software application used by media organizations, membership associations, and trust services to issue Verifiable Credentials to creators and rightsholders, ensuring clear attribution and accountability.
+* **A wallet for creators and rightsholders:** The application provides a secure and decentralised wallet that allows creators and rightsholders to store, manage, and share their Verifiable Credentials. This ensures that their credentials are easily accessible and verifiable by third parties, such as media platforms, publishers, and audiences, reinforcing trust and accountability in digital publishing.
 
-Creator Credentials aims to establish a new role for public entities and organisations in digital media publishing. By extending the state-of-the-art in digital identities to the cultural and creative communities and solving existing real-world problems, the project aims to provide new and highly innovative software solutions for credential issuers and future trust services.
+**Creator Credentials aims to establish a new role for public entities and organisations in digital media publishing.** By integrating digital identity solutions with existing media infrastructures, the project enables public institutions, professional associations, and cultural organisations to serve as trust anchors in the verification of creator credentials and content authenticity. This shift introduces a new paradigm for trust and accountability, ensuring that digital publishing ecosystems are transparent, verifiable, and resistant to manipulation.
 
-<div data-full-width="true">
-
-<figure><img src=".gitbook/assets/Creator-Credentials-Overview.png" alt=""><figcaption><p>Creator Credentials – Overview</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/Creator-Credentials-Overview.png" alt=""><figcaption><p>Creator Credentials – Overview</p></figcaption></figure></div>

@@ -1,10 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Issuers, Holders, and Verifiers
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/VC-Triangle-clear.png" alt="" width="510"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/VC-Triangle-clear.png" alt="" width="510"><figcaption></figcaption></figure></div>
 
 ## Credential issuers
 
@@ -25,7 +35,7 @@ Verifiable credentials have the potential to provide sufficient identification a
 * Creators, i.e., writers, bloggers, photographers, journalists, musicians, etc.;
 * Rightsholders, i.e., publishers, labels, intermediaries, retailers.
 
-<table><thead><tr><th width="106"></th><th width="186">Creators</th><th width="208">Rightsholders</th><th>Intermediaries</th></tr></thead><tbody><tr><td><strong>Image</strong></td><td>Photographers</td><td>Stock photo platforms, publishers; photo licensing agencies</td><td>News agencies</td></tr><tr><td><strong>Audio</strong></td><td>Bands; singers / songwriters; podcasters</td><td>Record labels, music publishers, studios</td><td>Music distributors, CMOs</td></tr><tr><td><strong>Text</strong></td><td>Authors; independent journalists; bloggers</td><td>Literary Agencies; Publishers (academic, trade, educational, audiobook, news)</td><td>News and ebook distributors; libraries</td></tr><tr><td><strong>Video</strong></td><td>Vloggers</td><td>TV and video producers and broadcasters</td><td>Video distributors</td></tr></tbody></table>
+<table><thead><tr><th width="106"></th><th width="126.6875">Creators</th><th width="205.2109375">Rightsholders</th><th>Intermediaries</th></tr></thead><tbody><tr><td><strong>Image</strong></td><td>Photographers</td><td>Stock photo platforms, publishers, photo licensing agencies</td><td>News agencies</td></tr><tr><td><strong>Audio</strong></td><td>Bands, songwriters, podcasters</td><td>Record labels, music publishers, studios</td><td>Music distributors, CMOs</td></tr><tr><td><strong>Text</strong></td><td>Authors, journalists, bloggers</td><td>Publishers (academic, trade, educational, audiobook, news), literary Agencies</td><td>News and ebook distributors; libraries</td></tr><tr><td><strong>Video</strong></td><td>Vloggers</td><td>TV and video producers and broadcasters</td><td>Video distributors</td></tr></tbody></table>
 
 ## Credential verifiers
 
