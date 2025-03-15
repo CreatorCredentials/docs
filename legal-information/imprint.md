@@ -14,6 +14,8 @@ layout:
 
 # Imprint
 
+Creator Credentials is developed by Liccium B.V.
+
 ## Imprint information <a href="#imprint-information" id="imprint-information"></a>
 
 {% embed url="https://liccium.com/imprint" %}
