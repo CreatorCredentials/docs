@@ -16,13 +16,13 @@ layout:
 
 <figure><img src="../.gitbook/assets/Creator-Credentials-landing@2x.png" alt="" width="375"><figcaption><p>Landing page</p></figcaption></figure>
 
-#### **For Creators: Establish and Manage Your Digital Identity**
+## **For Creators: Establish and Manage Your Digital Identity**
 
 Creators can sign up and verify themselves through domain verification (DNS), proving ownership over their digital presence. Additionally, they can connect with trusted credential issuers to receive Verifiable Credentials (VCs) from recognised media stakeholders, further strengthening their digital identity.
 
 VCs are hosted and managed in their secure wallet. These credentials remain portable, cryptographically verifiable, and interoperable, allowing creators to share them with platforms, publishers, and other third parties.
 
-#### **For Issuers: Enable Trust and Authentication in Digital Media**
+## **For Issuers: Enable Trust and Authentication in Digital Media**
 
 Media organisations, creator associations, Collective Management Organizations (CMOs), and other industry entities can act as issuers and trust services for creators and rightsholders, issuing Verifiable Credentials (VCs) that provide secure, verifiable proof of attribution and (pseudonymous) rightsholder identites.&#x20;
 
