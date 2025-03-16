@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Home](https://creatorcredentials.com)
+
 ## Introduction
 
 * [About Creator Credentials](README.md)
