@@ -12,11 +12,11 @@ layout:
     visible: true
 ---
 
-# How Creator Credentials Differ from ISNI and ORCID
+# Creator Credentials, ISNI and ORCID
 
 Creator Credentials, ISNI (International Standard Name Identifier), and ORCID (Open Researcher and Contributor Identifier) all serve as identification systems for natural persons, but they differ significantly in functionality, verification, and use cases.
 
-## **Decentralization and Control**
+## **SSI and Control**
 
 Unlike ISNI and ORCID, which are centrally issued and managed by designated organisations, Creator Credentials operate on the principles of self-sovereign identity. This means that creators and rightsholders have full control over their credentials, choosing where to store them, how to share them, and when to revoke them.
 

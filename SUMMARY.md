@@ -3,11 +3,12 @@
 ## Introduction
 
 * [About Creator Credentials](README.md)
-* [Key features and benefits](introduction/key-features-and-benefits.md)
-* [Publicly accessible VCs](introduction/publicly-accessible-vcs.md)
+* [Overview](introduction/overview.md)
 * [Issuers, Holders, and Verifiers](introduction/issuers-holders-and-verifiers.md)
 * [Use cases in digital media](introduction/use-cases-in-digital-media.md)
-* [How Creator Credentials differ from ISNI and ORCID](introduction/how-creator-credentials-differ-from-isni-and-orcid.md)
+* [Key features and benefits](introduction/key-features-and-benefits.md)
+* [Publicly accessible VCs](introduction/publicly-accessible-vcs.md)
+* [Creator Credentials, ISNI and ORCID](introduction/creator-credentials-isni-and-orcid.md)
 
 ## The Application
 
